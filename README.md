@@ -1,0 +1,2 @@
+# Happiness-Helper
+A iOS iPhone app that integrates with the native "Calendar" App using Swift and CalendarKit. It searches your phone for any scheulded events or calls during you day, then analyzes the spaces in between to maximize productivity through mental breaks, like taking a 5 minute walk or journalling. Schedules such breaks right into your native Calendar app and sets alarm notifications so you don't forget. 
